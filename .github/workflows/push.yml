@@ -13,5 +13,11 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
+        submodules: true 
 
-
+  
+    - name: powershell
+      env:
+        TOKEN_AUTO_PUSH: '${{ secrets.TOKEN_AUTO_PUSH}}'
+        COMMIT_MESSAGE: 'Auto update'
+      run: powershell.exe UpdateREADME.ps1
