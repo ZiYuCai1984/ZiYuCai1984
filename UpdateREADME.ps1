@@ -58,6 +58,6 @@ if($env:CI)
     git config --global user.email "yucaizi1984@gmail.com"
     git config --global user.name "ZiYuCai_Automation"
     git add .
-    git commit -m "$env:COMMITMESSAGE"
+    git commit -m "$env:COMMIT_MESSAGE"
     git push --set-upstream https://$env:TOKEN_AUTO_PUSH@github.com/ZiYuCai1984/ZiYuCai1984 master
 }
