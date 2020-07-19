@@ -35,9 +35,14 @@ $Readme="## About me 🚩
 
 - Contact me via yucaizi1984@gmail.com 📧
 
-- This is my blog ziyucai1984.github.io 🐌
+- This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
 ## Recently updated 🚀
+
+| Build time | Build status   |
+| ------------ | ------------ |
+| $(get-date -format yyyy-MM-dd-HH-mm-ss)(UTC)  |   ![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) |
+
 
 $Documents
 "
@@ -52,7 +57,6 @@ if($env:CI)
 {
     git config --global user.email "yucaizi1984@gmail.com"
     git config --global user.name "ZiYuCai_Automation"
-    git add .
-    git commit -m "$env:COMMIT_MESSAGE"
-    git push --set-upstream https://$env:TOKEN_AUTO_PUSH@github.com/ZiYuCai1984/ZiYuCai1984 master
+    git commit -m "$COMMITMESSAGE"
+    git push --set-upstream https://$(TOKEN_AUTO_PUSH)@github.com/ZiYuCai1984/ZiYuCai1984 master
 }
