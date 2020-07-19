@@ -20,4 +20,4 @@ jobs:
       env:
         TOKEN_AUTO_PUSH: '${{ secrets.TOKEN_AUTO_PUSH}}'
         COMMIT_MESSAGE: 'Auto update'
-      run: powershell.exe UpdateREADME.ps1
+      run: powershell.exe ./UpdateREADME.ps1
