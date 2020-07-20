@@ -41,7 +41,7 @@ $Readme="## About me 🚩
 
 $Documents
 
-## Update regularly via CI 🚀
+## Update regularly via action 🚀
 
 | Build time | Build status   |
 | ------------ | ------------ |
