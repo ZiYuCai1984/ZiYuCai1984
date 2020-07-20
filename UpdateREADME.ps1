@@ -7,7 +7,7 @@ if($env:CI)
 
 $Documents= Get-ChildItem -Path ".\ZiYuCai1984.github.io\_posts" | Get-ItemPropertyValue -Name 'Name'
 [Array]::Reverse($Documents)
-$Documents=$Documents[0..10]
+$Documents=$Documents[0..5]
 
 
 for ($i=0;$i -le ($Documents.length - 1);++$i)
@@ -37,14 +37,16 @@ $Readme="## About me 🚩
 
 - This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
-## Recently updated 🚀
+## Recent articles ✍🏽
+
+$Documents
+
+## Update regularly via CI 🚀
 
 | Build time | Build status   |
 | ------------ | ------------ |
 | $(get-date -format yyyy-MM-dd-HH-mm-ss)(UTC)  |   ![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) |
 
-
-$Documents
 "
 
 Write-Output $Readme > .\README.md
