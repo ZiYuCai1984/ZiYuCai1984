@@ -5,8 +5,11 @@ if($env:CI)
     git submodule update --remote
 }
 
-$Documents= Get-ChildItem -Path ".\ZiYuCai1984.github.io\_posts" | Get-ItemPropertyValue -Name 'Name'
+
+$Documents= Get-ChildItem -Path ".\ZiYuCai1984.github.io\_posts"  | Where-Object {$_.Mode -eq "-a----"} | Get-ItemPropertyValue -Name 'Name'
+
 [Array]::Reverse($Documents)
+
 $Documents=$Documents[0..5]
 
 
@@ -15,6 +18,11 @@ for ($i=0;$i -le ($Documents.length - 1);++$i)
     $d=$Documents[$i];
     $t= $d -split "-",4
     
+    if($t.Length-le(4))
+    {
+        continue
+    }
+
     $title=$t[3].Remove($t[3].Length-3,3)
     $pushTime=$d.Replace("-"+$t[3],"")
 
@@ -24,6 +32,7 @@ for ($i=0;$i -le ($Documents.length - 1);++$i)
 }
 
 $Documents =$Documents | Out-String
+
 
 $Readme="## About me 🚩
 
@@ -46,7 +55,6 @@ $Documents
 | Build time | Build status   |
 | ------------ | ------------ |
 | $(get-date -format yyyy-MM-dd-HH-mm-ss)(UTC)  |   ![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) |
-
 "
 
 Write-Output $Readme > .\README.md
