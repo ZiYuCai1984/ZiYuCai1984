@@ -1,6 +1,8 @@
 name: Auto Push
 
 on:
+  watch:
+    types: started
   push:
   schedule:
     - cron: '0 23 * * *'
@@ -8,6 +10,7 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
     - name: Checkout
       uses: actions/checkout@v2
