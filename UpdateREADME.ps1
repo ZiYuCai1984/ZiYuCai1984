@@ -18,10 +18,7 @@ for ($i=0;$i -le ($Documents.length - 1);++$i)
     $d=$Documents[$i];
     $t= $d -split "-",4
     
-    if($t.Length-le(4))
-    {
-        continue
-    }
+
 
     $title=$t[3].Remove($t[3].Length-3,3)
     $pushTime=$d.Replace("-"+$t[3],"")
