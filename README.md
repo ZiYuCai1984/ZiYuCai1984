@@ -21,5 +21,5 @@
 ## Update regularly via action 🚀
 | Build time | Build status   |
 | ------------ | ------------ |
-| 2020-08-03-03-45-17(UTC)  |   ![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) |
+| 2020-08-03-23-02-31(UTC)  |   ![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) |
 
