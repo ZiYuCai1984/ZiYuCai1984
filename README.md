@@ -11,6 +11,8 @@
 
 ### Recent articles ✍🏽
 
+- [NuGet包版本依赖解析规则 (2020-08-16)](https://ziyucai1984.github.io/2020/08/16/NuGet包版本依赖解析规则)
+
 - [Prism7应用程序初始化流程 (2020-08-09)](https://ziyucai1984.github.io/2020/08/09/Prism7应用程序初始化流程)
 
 - [Use-DataTemplate&&ContentPresenter-to-control-program-status (2020-08-01)](https://ziyucai1984.github.io/2020/08/01/Use-DataTemplate&&ContentPresenter-to-control-program-status)
@@ -20,8 +22,6 @@
 - [使用msbuild内置的Task实现文件模板功能 (2020-07-17)](https://ziyucai1984.github.io/2020/07/17/使用msbuild内置的Task实现文件模板功能)
 
 - [wpf在UI线程阻塞时的处理-BusyWindow (2020-07-17)](https://ziyucai1984.github.io/2020/07/17/wpf在UI线程阻塞时的处理-BusyWindow)
-
-- [xaml中显示时钟的几种方式 (2020-07-12)](https://ziyucai1984.github.io/2020/07/12/xaml中显示时钟的几种方式)
 
 
 
