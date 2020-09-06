@@ -1,6 +1,6 @@
 ﻿
 <!--
-09/05/2020 23:02:52(UTC)
+09/06/2020 23:02:55(UTC)
 -->
 ## About me 🚩
 - .net development engineer,foucsing on wpf 🎨
@@ -15,6 +15,10 @@
 
 ### Recent articles ✍🏽
 
+- [msbuild设置文件子节点 (2020-09-06)](https://ziyucai1984.github.io/2020/09/06/msbuild设置文件子节点)
+
+- [Excel批量插入空行的方法 (2020-09-06)](https://ziyucai1984.github.io/2020/09/06/Excel批量插入空行的方法)
+
 - [NuGet包版本依赖解析规则 (2020-08-16)](https://ziyucai1984.github.io/2020/08/16/NuGet包版本依赖解析规则)
 
 - [Prism7应用程序初始化流程 (2020-08-09)](https://ziyucai1984.github.io/2020/08/09/Prism7应用程序初始化流程)
@@ -22,10 +26,6 @@
 - [Use-DataTemplate&&ContentPresenter-to-control-program-status (2020-08-01)](https://ziyucai1984.github.io/2020/08/01/Use-DataTemplate&&ContentPresenter-to-control-program-status)
 
 - [同步多个项目的nuget包版本 (2020-07-18)](https://ziyucai1984.github.io/2020/07/18/同步多个项目的nuget包版本)
-
-- [使用msbuild内置的Task实现文件模板功能 (2020-07-17)](https://ziyucai1984.github.io/2020/07/17/使用msbuild内置的Task实现文件模板功能)
-
-- [wpf在UI线程阻塞时的处理-BusyWindow (2020-07-17)](https://ziyucai1984.github.io/2020/07/17/wpf在UI线程阻塞时的处理-BusyWindow)
 
 
 
