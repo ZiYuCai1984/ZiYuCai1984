@@ -1,17 +1,17 @@
 ﻿
 <!--
-09/13/2020 11:54:30(UTC)
+09/13/2020 11:58:45(UTC)
 -->
 ## About me 🚩
 - .net development engineer,foucsing on wpf 🎨
 - Development of medical software 💊
-- Work in Shanghai, China 
+- Work in Shanghai, China 🌘 +79°F
 - Contact me via yucaizi1984@gmail.com 📧
 - This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
 ### Build status 🚀
 
-![auto push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/auto%20push/badge.svg) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ZiYuCai1984/ZiYuCai1984) ![GitHub last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZiYuCai1984) [![GitHub license](https://img.shields.io/github/license/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984)
+![auto push](https://github.com/ZiYuCai1984/ZiYuCai1984.Internal/workflows/auto%20push/badge.svg?branch=master) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ZiYuCai1984/ZiYuCai1984) ![GitHub last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZiYuCai1984) [![GitHub license](https://img.shields.io/github/license/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984)
 ### Recent articles ✍🏽
 
 - [msbuild设置文件子节点 (2020-09-06)](https://ziyucai1984.github.io/2020/09/06/msbuild设置文件子节点)
