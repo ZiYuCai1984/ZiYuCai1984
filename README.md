@@ -1,19 +1,17 @@
 ﻿
 <!--
-09/13/2020 10:46:07(UTC)
+09/13/2020 11:47:50(UTC)
 -->
 ## About me 🚩
 - .net development engineer,foucsing on wpf 🎨
 - Development of medical software 💊
-- Work in Shanghai, China ☀️ +26°C
-
+- Work in Shanghai, China 
 - Contact me via yucaizi1984@gmail.com 📧
 - This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
 ### Build status 🚀
 
-![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ZiYuCai1984/ZiYuCai1984) ![GitHub last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZiYuCai1984) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ZiYuCai1984/ZiYuCai1984)  [![GitHub issues](https://img.shields.io/github/issues/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984/issues) [![GitHub forks](https://img.shields.io/github/forks/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984/network) [![GitHub stars](https://img.shields.io/github/stars/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984/stargazers) [![GitHub license](https://img.shields.io/github/license/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984)  ![GitHub language count](https://img.shields.io/github/languages/count/ZiYuCai1984/ZiYuCai1984) ![GitHub top language](https://img.shields.io/github/languages/top/ZiYuCai1984/ZiYuCai1984) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ZiYuCai1984/ZiYuCai1984) ![GitHub repo size](https://img.shields.io/github/repo-size/ZiYuCai1984/ZiYuCai1984) ![GitHub file size in bytes](https://img.shields.io/github/size/ZiYuCai1984/ZiYuCai1984/README.md)
-
+![Auto Push](https://github.com/ZiYuCai1984/ZiYuCai1984/workflows/Auto%20Push/badge.svg) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ZiYuCai1984/ZiYuCai1984) ![GitHub last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZiYuCai1984) [![GitHub license](https://img.shields.io/github/license/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984)
 ### Recent articles ✍🏽
 
 - [msbuild设置文件子节点 (2020-09-06)](https://ziyucai1984.github.io/2020/09/06/msbuild设置文件子节点)
