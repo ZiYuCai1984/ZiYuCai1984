@@ -1,11 +1,11 @@
 ﻿
 <!--
-09/19/2020 11:08:09(UTC)
+09/19/2020 23:02:54(UTC)
 -->
 ## About me 🚩
 - .net development engineer,foucsing on wpf 🎨
 - Development of medical software 💊
-- Work in Shanghai, China +72°F 🌒
+- Work in Shanghai, China +66°F ☀️
 - Contact me via yucaizi1984@gmail.com 📧
 - This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
@@ -13,6 +13,8 @@
 
 ![auto push](https://github.com/ZiYuCai1984/ZiYuCai1984.Internal/workflows/auto%20push/badge.svg?branch=master) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ZiYuCai1984/ZiYuCai1984) ![GitHub last commit](https://img.shields.io/github/last-commit/ZiYuCai1984/ZiYuCai1984) [![GitHub license](https://img.shields.io/github/license/ZiYuCai1984/ZiYuCai1984)](https://github.com/ZiYuCai1984/ZiYuCai1984)
 ### Recent articles ✍🏽
+
+- [InitializeComponent-in-MainWindow-is-redundant-in-the-default-project-template (2020-09-20)](https://ziyucai1984.github.io/2020/09/20/InitializeComponent-in-MainWindow-is-redundant-in-the-default-project-template)
 
 - [The-association-of-xxx.g.cs-and-xxx.g.i.cs (2020-09-19)](https://ziyucai1984.github.io/2020/09/19/The-association-of-xxx.g.cs-and-xxx.g.i.cs)
 
@@ -23,8 +25,6 @@
 - [NuGet包版本依赖解析规则 (2020-08-16)](https://ziyucai1984.github.io/2020/08/16/NuGet包版本依赖解析规则)
 
 - [Prism7应用程序初始化流程 (2020-08-09)](https://ziyucai1984.github.io/2020/08/09/Prism7应用程序初始化流程)
-
-- [Use-DataTemplate&&ContentPresenter-to-control-program-status (2020-08-01)](https://ziyucai1984.github.io/2020/08/01/Use-DataTemplate&&ContentPresenter-to-control-program-status)
 
 
 
