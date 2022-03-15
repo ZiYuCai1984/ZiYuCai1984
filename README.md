@@ -1,11 +1,11 @@
 ﻿
 <!--
-03/15/2022 11:11:04(UTC)
+03/15/2022 23:07:25(UTC)
 -->
 ## About me 🚩
 - .net development engineer,foucsing on wpf,blazor 🎨
 - Development of medical software 💊
-- Work in Shanghai, China +72°F 🌔
+- Work in Shanghai, China +57°F ☀️  
 - Contact me via yucaizi1984@gmail.com 📧
 - This is my blog [ziyucai1984.github.io](https://ziyucai1984.github.io/) 🐌
 
